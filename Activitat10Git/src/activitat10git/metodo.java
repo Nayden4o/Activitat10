@@ -13,7 +13,7 @@ public class metodo {
 
     public static void primerTriangulo() {
 
-        String M = "MARAVILLOSO";
+        String M = "NAYDEN";
         
         //Imprime los primeros dos triangulos de izq a derecha de la primera parte (parte superios)
         for (int i = 0; i < M.length(); i++) {
@@ -40,7 +40,7 @@ public class metodo {
 
     public static void segundoTriangulo() {
 
-        String M = "MARAVILLOSO";
+        String M = "NAYDEN";
         //Imprime los segundos dos triangulos de izq a derecha de la segunda parte (parte inferior)
         for (int i = 0; i < M.length(); i++) {
             //Imprime primer triangulo de la segunda parte
